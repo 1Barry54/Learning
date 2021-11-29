@@ -1,4 +1,3 @@
-# Learning
-This is for learning!
+This is for Github learning
 
-Barry M
+Repository: Learning git@github.com:1Barry54/Learning.git
